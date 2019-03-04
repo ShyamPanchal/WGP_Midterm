@@ -1,1 +1,1 @@
-# WGP_Midtern
+# WGP_Midterm
